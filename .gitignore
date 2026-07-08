@@ -1,4 +1,16 @@
 *.dll
 *.obj
 *.log
+*.tlog
+*.lib
+*.recipe
+*.pdb
+*.dll
+*.sbr
+UpgradeLog.htm
+.vs/
 binary/
+Debug/
+Release/
+*_Debug/
+*_Release/
