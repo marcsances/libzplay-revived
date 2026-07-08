@@ -15,3 +15,4 @@ Release/
 *_Debug/
 *_Release/
 *.user
+/decoders/libFLAC/Release_static/libFLAC_static.vcxproj.FileListAbsolute.txt
