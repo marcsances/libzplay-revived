@@ -11,16 +11,16 @@ CONTENTS
 8.  DISCLAIMER
 9.  COPYRIGHT
 10. MP3 and AAC LICENSE
-11. Author
+11. libzplay-revived & Authors
 
 
 ===========================================================================================
 1. ABOUT
 ===========================================================================================
-libZPlay ver. 2.02 (Win32)
+libZPlay-revived ver. 2.04 (Win32)
 
-Version: 2.02
-Date: May, 2010. 
+Version: 2.04
+Date: July, 2026. 
 
 This is multimedia library for playing mp3, mp2, mp1, ogg, flac, oga, ac3, aac, wav and pcm files and streams. 
 
@@ -339,16 +339,25 @@ from .\binary\pf
 
 
 ===========================================================================================
-11. AUTHOR
+11. libzplay-revived and authors
 ===========================================================================================
-Zoran Cindori 
+LibZPlay is original work from Zoran Cindori 
 
 Email: zcindori@inet.hr
        zcindori@users.sourceforge.net 
 
 Web: http://libzplay.sourceforge.net/ 
 
+LibZPlay-revived is a modern port of the project. It has been upgraded to VS2025 and the
+aim is to initially support X64 builds of the library for use in modern Windows 
+applications, as well as fixing any bugs and adding new features as the fork author
+considers convenient, since the original library is not updated since 2010.
 
+In the future, a port to Linux or .NET Core might be considered, but this is still far
+from happening.
 
+The fork is a work of Marc Sances
 
+Email: marc.sances@coetic.cat
 
+Web: https://www.marcsances.net/

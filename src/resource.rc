@@ -16,14 +16,14 @@ FILETYPE 0x1
 		 BLOCK "040904E4"
 		 {
             		VALUE "Comments", RC_COMMENTS
-			 VALUE "CompanyName", "Email: zcindori@inet.hr\0"
+			 VALUE "CompanyName", "Originally by Zorian Cindori (zcindori@inet.hr). Fork by Marc Sances (marc.sances@coetic.cat)\0"
 			 VALUE "FileVersion", RC_FILE_VERSION
 			 VALUE "FileDescription", RC_FILE_DESCRIPTION
 			 VALUE "InternalName", "libzplay.dll\0"
 			 VALUE "LegalCopyright", "GNU General Public License\0"
 			 VALUE "LegalTrademarks", "GNU General Public License\0"
 			 VALUE "OriginalFilename", "libzplay.dll\0"
-			 VALUE "ProductName", "libZPlay\0"
+			 VALUE "ProductName", "libZPlay-revived\0"
 			 VALUE "ProductVersion", RC_PRODUCT_VERSION 
 		 }
 	 }
